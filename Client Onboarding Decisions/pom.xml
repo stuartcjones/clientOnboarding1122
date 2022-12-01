@@ -65,7 +65,6 @@
         <module>.decisionservice</module>
         <module>Data</module>
         <module>Fee and services</module>
-        <module>Machine learning scoreboard</module>
         <module>Scoreboard</module>
         <module>Services subset</module>
     </modules>
